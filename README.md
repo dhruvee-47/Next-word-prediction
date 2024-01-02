@@ -1,5 +1,5 @@
 
-# Task 7 -  Next Word Prediction
+# Next Word Prediction
 
 This repository provides a theoretical overview of next word prediction, a fascinating task in the field of natural language processing (NLP). The aim is to explain the concepts, techniques, and steps involved in developing a model that can predict the next word in a given sentence or context. Please note that this repository does not contain any code implementations, but rather focuses on the theoretical aspects of next word prediction.
 
